@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1"
+  },
+  "name": "express_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
